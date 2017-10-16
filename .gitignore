@@ -1,0 +1,10 @@
+/.externalToolBuilders
+/.settings
+.svn
+/.project
+/target
+/.classpath
+/src/main/webapp/temp
+/src/main/webapp/source
+/src/main/webapp/store
+/src/main/webapp/depository
